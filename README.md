@@ -1,2 +1,2 @@
 # LAURA
-Repository for LAURA: the SARS-CoV-2 genomics tool for locus allele unique RNA alignments. The program was written by Michael W. Gaunt, PhD (Oxford) et al. in collaboration with Ernie Gould and other and completed in September 2022. The code uploaded for public access later.
+Repository for LAURA: the SARS-CoV-2 genomics tool for Locus Allele Unique RNA Alignments. The program was written by Michael W. Gaunt, PhD in collaboration with Ernie Gould, Bruno Coutard and Alexander Gorbalenya. The code was completed in September 2022 and uploaded for public access later.
